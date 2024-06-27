@@ -144,11 +144,11 @@ For example, a team working on a software project can use GitHub to store the pr
 
 REFERENCES tto the Answers
 Pro Git by Scott Chacon and Ben Straub
-Version Control with Git by Jon Loeliger and Matthew McCullough
-GitHub Essentials by Achilleas Anagnostopoulos
-Learning GitHub Actions by Brent Laster
-Bird, C., et al. "The promises and perils of mining Git." Proceedings of the Sixth IEEE International Working Conference on Mining Software Repositories. IEEE, 2009.
-Learn Visual Studio Code: Learn Visual Studio Code to make your development efficient and robust by Clémentine Quéméner
+Version Control with Git by Jon Loeliger and Matthew McCullough,
+GitHub Essentials by Achilleas Anagnostopoulos,
+Learning GitHub Actions by Brent Laster,
+Bird, C., et al. "The promises and perils of mining Git." Proceedings of the Sixth IEEE International Working Conference on Mining Software Repositories. IEEE, 2009.,
+Learn Visual Studio Code: Learn Visual Studio Code to make your development efficient and robust by Clémentine Quéméner.
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
